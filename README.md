@@ -71,5 +71,4 @@
 
 ---
 
-Made with neo-tones, bold clarity, and a splash of vivid color —  
-Harsh (HrshD1eux) 🎨💻
+Made with  ❤️ By  Harsh (HrshD1eux) 🎨💻
