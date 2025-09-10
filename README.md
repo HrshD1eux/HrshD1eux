@@ -64,9 +64,9 @@
 ---
 
 ## 📬 Contact
-- **GitHub:** github.com/HrshD1eux  
+- **GitHub:** https://github.com/HrshD1eux  
 - **Portfolio:** harshpahal.vercel.app  
-- **Business site:** rajuprintingpress.netlify.app
+- **Business site:** https://rajuprintingpress.netlify.app
 - **Email:** HrshD1eux@proton.me
 
 ---
