@@ -4,7 +4,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-harshpahal.vercel.app-00E5CF?style=for-the-badge&logo=vercel&logoColor=white)](https://harshpahal.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-github.com%2FHrshD1eux-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HrshD1eux)
 
-A neo-themed, color-forward README that highlights skills, process, and projects at a glance — written as punchy, bold-first bullets for fast scanning.
 
 ---
 
