@@ -68,7 +68,7 @@ A neo-themed, color-forward README that highlights skills, process, and projects
 - **GitHub:** github.com/HrshD1eux  
 - **Portfolio:** harshpahal.vercel.app  
 - **Business site:** rajuprintingpress.netlify.app
-- **Email:** 9qzhx8tu@duck.com
+- **Email:** HrshD1eux@proton.me
 
 ---
 
