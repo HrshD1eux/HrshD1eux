@@ -41,8 +41,8 @@
 - **Portfolio** — curated case studies & design→code walkthroughs  
   • Live: **harshpahal.vercel.app** · Repo: **github.com/HrshD1eux/portfolio**
 
-- **gpmeham & M** — experiments, learning sandboxes, handy utilities  
-  • Repos: **github.com/HrshD1eux/gpmeham · github.com/HrshD1eux/M**
+- **gpmeham** — experiments, learning sandboxes, handy utilities  
+  • Repos: **github.com/HrshD1eux/gpmeham**
 
 ---
 
