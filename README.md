@@ -33,16 +33,13 @@
 
 ## 🚀 Projects I’m proud of
 - **MIM** — ongoing product; emphasis on UI polish & feature growth  
-  • Repo: **github.com/HrshD1eux/MIM** · Tech: **Next.js · TypeScript · Node.js**
+  • Tech: **Next.js · TypeScript · Node.js**
 
 - **Universal-Calculator** — utility showcasing clear UX & modular UI  
   • Repo: **github.com/HrshD1eux/Universal-Calculator** · Tech: **Vanilla JS**
 
 - **Portfolio** — curated case studies & design→code walkthroughs  
   • Live: **harshpahal.vercel.app** · Repo: **github.com/HrshD1eux/portfolio**
-
-- **gpmeham** — experiments, learning sandboxes, handy utilities  
-  • Repos: **github.com/HrshD1eux/gpmeham**
 
 ---
 
